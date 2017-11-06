@@ -1,0 +1,1 @@
+WindowWidth: 1000 WindowHeight: 1000 Rows: 100 Cols: 100 CellSize: 10 GridSize: 2 FrameRate: 30 AliveColor: 4 DeadColor: 1
