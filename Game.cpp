@@ -4,7 +4,7 @@
 #include "Config.h"
 #include "Cell.h"
 using namespace std;
-
+//dividing stuff
 Config config;
 int cellCols = config.cellCols;
 int cellRows = config.cellRows;
